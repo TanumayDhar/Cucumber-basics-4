@@ -1,3 +1,6 @@
+#tags are used to run particular feature file
+# Cucumber options= feature, glue, monochrome, tags
+@Smoke
 Feature: Login
 
 In order to perform successful login

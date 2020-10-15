@@ -1,3 +1,4 @@
+@Functional
 Feature: Login to production (Data table)
 
 In order to perform successful login production
